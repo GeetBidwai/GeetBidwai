@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Geet
+# 👋 Hey, I'm Geet.
 
 Software engineer with an M.Sc. in Statistics, building full-stack and AI-powered applications with Python, Django, React, and REST APIs. I like turning messy business problems — trading data, ERP workflows, natural-language questions over datasets — into working, deployed software.
 
